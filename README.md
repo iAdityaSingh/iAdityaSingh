@@ -1,3 +1,4 @@
+![giphy](https://user-images.githubusercontent.com/89569367/137636479-bbea302d-1ec5-4878-ba26-2accd7899182.gif)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer and a ethical hacker from India</h3>
 
