@@ -1,6 +1,7 @@
-![385e26463c77908117c3952e37fd2f0b](https://user-images.githubusercontent.com/89569367/137636657-e1e37c33-5690-4fb3-aaa9-37bdcc16af9f.gif)
+![193a300684a0a8915a6bfdbc325479af](https://user-images.githubusercontent.com/89569367/137636787-dd0c2e70-1acb-4ce5-bdec-4bff5b237cdc.gif)
 
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+
+<h1 align="center"> 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer and a ethical hacker from India</h3>
 
    ![download](https://user-images.githubusercontent.com/89569367/137631314-8f180c38-5474-4070-8769-0a1697a79945.jpg)
@@ -17,9 +18,9 @@
 
 - 💬 Ask me about **C++ and Python**
 
-- 📫 How to reach me **adityasing9876@gmail.com**
+- 📫 Contact me at **adityasing9876@gmail.com**
 
-- ⚡ Fun fact **I am Football player and love to be around hacking world**
+- ⚡ **I am Football player and love to be around hacking world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
