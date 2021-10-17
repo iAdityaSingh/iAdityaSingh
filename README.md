@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer and a ethical hacker from India</h3>
 
+   ![download](https://user-images.githubusercontent.com/89569367/137631314-8f180c38-5474-4070-8769-0a1697a79945.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iadityasingh&label=Profile%20views&color=0e75b6&style=flat" alt="iadityasingh" /> </p>
 
