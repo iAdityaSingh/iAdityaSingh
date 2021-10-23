@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **C++ and Python**
 
-- 📫 Contact me at **adityasing9876@gmail.com**
+- 📫 Contact me at **iadityasingh13@gmail.com**
 
 - ⚡ **I am Football player and love to be around hacking world**
 
