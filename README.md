@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security and Ethical Hacking and Web Development**
+- 🌱 I’m currently learning **Cyber Security, Blockchain, UIUX Designing and  Web Development**
 
-- 🤝 I’m looking for help with **Cyber Security and Ethical Hacking projects**
+- 🤝 I’m looking for help with **Cyber Security, Ethical Hacking and Blockchain projects**
 
-- 💬 Ask me about **C++ and Python**
+- 💬 Ask me about **C++, Python, Html, CSS, Javascript and  Figma**
 
 - 📫 Contact me at **iadityasingh13@gmail.com**
 
