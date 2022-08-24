@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cyber Security, Blockchain, UIUX Designing and  Web Development**
 
-- 🤝 I’m looking for help with **Cyber Security, Ethical Hacking and Blockchain projects**
+- 🤝 I’m looking for help with **Cyber Security, Web Devlopment and Blockchain projects**
 
 - 💬 Ask me about **C++, Python, Html, CSS, Javascript and  Figma**
 
