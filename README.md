@@ -1,43 +1,112 @@
-![193a300684a0a8915a6bfdbc325479af](https://user-images.githubusercontent.com/89569367/137636787-dd0c2e70-1acb-4ce5-bdec-4bff5b237cdc.gif)
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=800&color=5B8CFF&center=true&vCenter=true&width=650&lines=whoami;not+your+average+SAP+dev;i+build+things+%2B+break+things+(ethically);access+granted+%E2%9C%A8" alt="Typing SVG" />
 
-<h1 align="center"> 👋, I'm Aditya Singh</h1>
-<h3 align="center">A passionate frontend developer and a ethical hacker from India</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=iAdityaSingh&color=5b8cff&style=for-the-badge&label=VISITORS)
+![Open to Work](https://img.shields.io/badge/status-open_to_work-5b8cff?style=for-the-badge&labelColor=11151b)
 
-   ![download](https://user-images.githubusercontent.com/89569367/137631314-8f180c38-5474-4070-8769-0a1697a79945.jpg)
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadityasingh&label=Profile%20views&color=0e75b6&style=flat" alt="iadityasingh" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iadityasingh" alt="iadityasingh" /></a> </p>
+> not the "10x engineer" LinkedIn wants you to think exists — just someone who ships, breaks, and fixes things faster than the average coffee cools down ☕
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **Cyber Security, Blockchain, UIUX Designing and  Web Development**
+### `//` 01 — THE TEA
 
-- 🤝 I’m looking for help with **Cyber Security, Web Devlopment and Blockchain projects**
+```yaml
+name: Aditya Singh
+role: Software Engineer @ Accenture (SAP HANA / ABAP)
+side_quests: cybersecurity, solidity, ui/ux, whatever's shiny this week
+location: Gurugram, India
+current_mood: shipping something at 1am probably
+status: ✅ open to work — my dms (and terminal) are open
+```
 
-- 💬 Ask me about **C++, Python, Html, CSS, Javascript and  Figma**
+full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh.github.io/Personal-Portfolio/)** — it has an actual terminal you can type into and a 3D scene where you click targets to navigate. yes, really. no, it's not a normal portfolio. that's the point.
 
-- 📫 Contact me at **iadityasingh13@gmail.com**
+<br>
 
-- ⚡ **I am Football player and love to be around hacking world**
+### `//` 02 — LOADOUT
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adi" height="30" width="40" /></a>
-<a href="https://fb.com/aditya singh rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya singh rajput" height="30" width="40" /></a>
-<a href="https://instagram.com/_iadityasingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iadityasingh_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iadityasingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iadityasingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aditya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aditya singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iadityasingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iadityasingh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/weFxP3Fahttps://discord.gg/weFxP3Fa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/weFxP3Fahttps://discord.gg/weFxP3Fa" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-11151b?style=for-the-badge&logo=python&logoColor=5b8cff)
+![JavaScript](https://img.shields.io/badge/JavaScript-11151b?style=for-the-badge&logo=javascript&logoColor=5b8cff)
+![Solidity](https://img.shields.io/badge/Solidity-11151b?style=for-the-badge&logo=solidity&logoColor=5b8cff)
+![SQL](https://img.shields.io/badge/SQL-11151b?style=for-the-badge&logo=postgresql&logoColor=5b8cff)
+![HTML5](https://img.shields.io/badge/HTML5-11151b?style=for-the-badge&logo=html5&logoColor=5b8cff)
+![CSS3](https://img.shields.io/badge/CSS3-11151b?style=for-the-badge&logo=css3&logoColor=5b8cff)
+![Linux](https://img.shields.io/badge/Linux-11151b?style=for-the-badge&logo=linux&logoColor=5b8cff)
+![SAP](https://img.shields.io/badge/SAP-11151b?style=for-the-badge&logo=sap&logoColor=5b8cff)
+![Figma](https://img.shields.io/badge/Figma-11151b?style=for-the-badge&logo=figma&logoColor=5b8cff)
+![Three.js](https://img.shields.io/badge/Three.js-11151b?style=for-the-badge&logo=three.js&logoColor=5b8cff)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadityasingh&show_icons=true&locale=en&layout=compact" alt="iadityasingh" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iadityasingh&show_icons=true&locale=en" alt="iadityasingh" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iadityasingh&" alt="iadityasingh" /></p>
+### `//` 03 — RECEIPTS (certs, because "trust me bro" doesn't hold up in interviews)
+
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP-Generative_AI_Developer-11151b?style=flat-square&logo=sap&logoColor=5b8cff)
+![Microsoft](https://img.shields.io/badge/Microsoft-Security_Ops_Analyst-11151b?style=flat-square&logo=microsoft&logoColor=5b8cff)
+![Google](https://img.shields.io/badge/Google-Cloud_Digital_Leader-11151b?style=flat-square&logo=googlecloud&logoColor=5b8cff)
+![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-11151b?style=flat-square&logo=cisco&logoColor=5b8cff)
+
+</div>
+
+<br>
+
+### `//` 04 — SHIP LOG (things i actually built)
+
+<div align="center">
+
+| repo | what it does | stack |
+|---|---|---|
+| 🎣 [**Phishguard-Intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing intel + threat detection | `Python` `Cybersecurity` |
+| 🛡️ [**SecureDOT-Antivirus**](https://github.com/iAdityaSingh/SecureDOT-Antivirus) | hash-based antivirus, scans + nukes threats | `Python` `Cybersecurity` |
+| ⛓️ [**Vehiclechain**](https://github.com/iAdityaSingh/Vehicle-Rental-App) | vehicle rental, but make it blockchain | `Solidity` `Web3` |
+| 🪙 [**Token-VICIOUS**](https://github.com/iAdityaSingh/Token-VICIOUS) | custom token smart contract | `Solidity` |
+| 🌐 [**This Portfolio**](https://github.com/iAdityaSingh/Personal-Portfolio) | the site with the terminal + 3D scene | `JS` `Three.js` |
+
+</div>
+
+<br>
+
+### `//` 05 — RECEIPTS PT. 2 (the numbers)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iAdityaSingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11151b&title_color=5b8cff&text_color=8892a0&icon_color=ff6a3d&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=11151b&title_color=5b8cff&text_color=8892a0" alt="Top Languages" width="35.5%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSingh&theme=tokyonight&hide_border=true&background=11151b&stroke=5b8cff&ring=5b8cff&fire=ff6a3d&currStreakLabel=5b8cff" alt="Streak Stats" width="65%" />
+
+<br>
+
+<sub>if these look blank when you load the page — it's not the code, it's a free rate-limited service having a moment. refresh in a sec.</sub>
+
+</div>
+
+<br>
+
+### `//` 06 — SLIDE INTO MY DMS (professionally)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11151b?style=for-the-badge&logo=linkedin&logoColor=5b8cff)](https://www.linkedin.com/in/vicious13/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11151b?style=for-the-badge&logo=firefox&logoColor=5b8cff)](https://iadityasingh.github.io/Personal-Portfolio/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-11151b?style=for-the-badge&logo=devdotto&logoColor=5b8cff)](https://dev.to/iadityasingh)
+[![Medium](https://img.shields.io/badge/Medium-11151b?style=for-the-badge&logo=medium&logoColor=5b8cff)](https://medium.com/@VICIOUS13)
+[![Gmail](https://img.shields.io/badge/Email-11151b?style=for-the-badge&logo=gmail&logoColor=5b8cff)](mailto:iadityasingh13@gmail.com)
+
+</div>
+
+<div align="center">
+<sub>SESSION SECURE · ENCRYPTED · AES-256 · probably overthinking this readme rn</sub>
+</div>
