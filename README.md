@@ -80,16 +80,9 @@ full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iAdityaSingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11151b&title_color=5b8cff&text_color=8892a0&icon_color=ff6a3d&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdityaSingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=11151b&title_color=5b8cff&text_color=8892a0" alt="Top Languages" width="35.5%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSingh&theme=tokyonight&hide_border=true&background=11151b&stroke=5b8cff&ring=5b8cff&fire=ff6a3d&currStreakLabel=5b8cff" alt="Streak Stats" width="65%" />
-
-<br>
-
-<sub>if these look blank when you load the page — it's not the code, it's a free rate-limited service having a moment. refresh in a sec.</sub>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iAdityaSingh&label=PUBLIC%20REPOS&query=$.public_repos&color=5b8cff&style=for-the-badge&labelColor=11151b)
+![Followers](https://img.shields.io/github/followers/iAdityaSingh?label=FOLLOWERS&color=5b8cff&style=for-the-badge&labelColor=11151b)
+![Last Commit](https://img.shields.io/github/last-commit/iAdityaSingh/Personal-Portfolio?label=LAST%20SHIPPED&color=ff6a3d&style=for-the-badge&labelColor=11151b)
 
 </div>
 
