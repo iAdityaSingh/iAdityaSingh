@@ -66,14 +66,14 @@ full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh
 | repo | what it does | stack |
 |---|---|---|
 | 🕸️ [**IdentityGraph**](https://github.com/iAdityaSingh/IdentityGraph) | mapping identity/access relationships | `Python` `IAM` |
-| 📦 [**Encourage-Discord-BOT-**](https://github.com/iAdityaSingh/Encourage-Discord-BOT-) | no description yet | `Python` |
+| 🤖 [**Encourage-Discord-BOT-**](https://github.com/iAdityaSingh/Encourage-Discord-BOT-) | a Discord bot built on the Discord API | `Python` `Discord API` |
 | ⛓️ [**Vehicle-Rental-App**](https://github.com/iAdityaSingh/Vehicle-Rental-App) | vehicle rental, but make it blockchain | `Solidity` `Web3` |
-| 📦 [**Basic-DDOS-Attack**](https://github.com/iAdityaSingh/Basic-DDOS-Attack) | no description yet | `Python` |
+| 📡 [**Basic-DDOS-Attack**](https://github.com/iAdityaSingh/Basic-DDOS-Attack) | DDoS simulation for learning network stress patterns | `Python` `Networking` |
 | 🌐 [**Personal-Portfolio**](https://github.com/iAdityaSingh/Personal-Portfolio) | the site with the terminal + 3D scene | `JS` `Three.js` |
-| 📦 [**Esports-Analyst-Workspace**](https://github.com/iAdityaSingh/Esports-Analyst-Workspace) | no description yet | `TypeScript` |
+| 🎮 [**Esports-Analyst-Workspace**](https://github.com/iAdityaSingh/Esports-Analyst-Workspace) | workspace for esports analysis tooling | `TypeScript` |
 | 🎣 [**Phishguard-intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing intel + threat detection | `Python` `Cybersecurity` |
 | 🛡️ [**SecureDOT-Antivirus**](https://github.com/iAdityaSingh/SecureDOT-Antivirus) | hash-based antivirus, scans + nukes threats | `Python` `Cybersecurity` |
-| 📦 [**Offercheck**](https://github.com/iAdityaSingh/Offercheck) | no description yet | `JavaScript` |
+| 📋 [**Offercheck**](https://github.com/iAdityaSingh/Offercheck) | checks and tracks job offers | `JavaScript` |
 <!--END_SECTION:starred-->
 
 <div align="center"><sub>⭐ star any of your own repos on GitHub and this table updates itself within 24h — no manual edits needed</sub></div>
