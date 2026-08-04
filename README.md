@@ -80,11 +80,11 @@ full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh
 
 <br>
 
-### `//` 05 — RECEIPTS PT. 2 (the numbers)
+### `//` 05 — CONTRIBUTION GRAPH, BUT MAKE IT A SNAKE
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdityaSingh&theme=tokyonight&hide_border=true&background=11151b&stroke=5b8cff&ring=5b8cff&fire=ff6a3d&currStreakLabel=5b8cff" alt="Streak Stats" width="65%" />
+<img src="https://raw.githubusercontent.com/iAdityaSingh/iAdityaSingh/output/dist/snake-dark.svg" alt="Snake animation" width="90%" />
+</div>
 
 <br>
 
