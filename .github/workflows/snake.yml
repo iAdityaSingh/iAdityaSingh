@@ -19,10 +19,11 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-     - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: output
           clean: false
+
       - name: Push snake output
         run: |
           git config user.name "github-actions[bot]"
