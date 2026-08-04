@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: iAdityaSingh
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+      - name: Push snake output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p dist
+          cp -r ${{ steps.snake.outputs.svg }} dist/ 2>/dev/null || true
+          git add dist || true
+          git diff --cached --quiet && echo "No changes" || (git commit -m "chore: update snake animation" && git push)
