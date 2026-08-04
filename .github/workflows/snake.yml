@@ -11,6 +11,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         id: snake
         with:
@@ -19,16 +21,22 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-          clean: false
+      - name: Fix ownership of generated files
+        run: sudo chown -R $(id -u):$(id -g) dist
 
-      - name: Push snake output
+      - name: Publish to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p dist
-          cp -r ${{ steps.snake.outputs.svg }} dist/ 2>/dev/null || true
-          git add dist || true
-          git diff --cached --quiet && echo "No changes" || (git commit -m "chore: update snake animation" && git push)
+          cp -r dist /tmp/dist_backup
+          git fetch origin output:output 2>/dev/null || true
+          if git show-ref --verify --quiet refs/heads/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf . > /dev/null 2>&1 || true
+          fi
+          rm -rf dist
+          cp -r /tmp/dist_backup dist
+          git add dist
+          git diff --cached --quiet && echo "No changes to commit" || (git commit -m "chore: update snake animation" && git push origin output)
