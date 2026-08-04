@@ -66,11 +66,14 @@ full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh
 | repo | what it does | stack |
 |---|---|---|
 | 🕸️ [**IdentityGraph**](https://github.com/iAdityaSingh/IdentityGraph) | mapping identity/access relationships | `Python` `IAM` |
-| 🎣 [**Phishguard-Intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing intel + threat detection | `Python` `Cybersecurity` |
+| 📦 [**Encourage-Discord-BOT-**](https://github.com/iAdityaSingh/Encourage-Discord-BOT-) | no description yet | `Python` |
+| ⛓️ [**Vehicle-Rental-App**](https://github.com/iAdityaSingh/Vehicle-Rental-App) | vehicle rental, but make it blockchain | `Solidity` `Web3` |
+| 📦 [**Basic-DDOS-Attack**](https://github.com/iAdityaSingh/Basic-DDOS-Attack) | no description yet | `Python` |
+| 🌐 [**Personal-Portfolio**](https://github.com/iAdityaSingh/Personal-Portfolio) | the site with the terminal + 3D scene | `JS` `Three.js` |
+| 📦 [**Esports-Analyst-Workspace**](https://github.com/iAdityaSingh/Esports-Analyst-Workspace) | no description yet | `TypeScript` |
+| 🎣 [**Phishguard-intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing intel + threat detection | `Python` `Cybersecurity` |
 | 🛡️ [**SecureDOT-Antivirus**](https://github.com/iAdityaSingh/SecureDOT-Antivirus) | hash-based antivirus, scans + nukes threats | `Python` `Cybersecurity` |
-| ⛓️ [**Vehiclechain**](https://github.com/iAdityaSingh/Vehicle-Rental-App) | vehicle rental, but make it blockchain | `Solidity` `Web3` |
-| 🪙 [**Token-VICIOUS**](https://github.com/iAdityaSingh/Token-VICIOUS) | custom token smart contract | `Solidity` |
-| 🌐 [**This Portfolio**](https://github.com/iAdityaSingh/Personal-Portfolio) | the site with the terminal + 3D scene | `JS` `Three.js` |
+| 📦 [**Offercheck**](https://github.com/iAdityaSingh/Offercheck) | no description yet | `JavaScript` |
 <!--END_SECTION:starred-->
 
 <div align="center"><sub>⭐ star any of your own repos on GitHub and this table updates itself within 24h — no manual edits needed</sub></div>
