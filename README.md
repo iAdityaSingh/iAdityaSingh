@@ -65,15 +65,15 @@ full lore → **[iadityasingh.github.io/Personal-Portfolio](https://iadityasingh
 <!--START_SECTION:starred-->
 | repo | what it does | stack |
 |---|---|---|
-| 🔍 [**Netrisk-Scanner**](https://github.com/iAdityaSingh/Netrisk-Scanner) | network risk scanning tool for identifying vulnerabilities and security exposure | `Python` `Cybersecurity` |
-| 🕸️ [**IdentityGraph**](https://github.com/iAdityaSingh/IdentityGraph) | graph-based identity attack-path analyzer — models privilege escalation and SoD conflicts, mapped to MITRE ATT&CK | `Python` `IAM` |
-| 🤖 [**Encourage-Discord-BOT-**](https://github.com/iAdityaSingh/Encourage-Discord-BOT-) | a Discord bot built on the Discord API | `Python` `Discord API` |
+| 📦 [**Netrisk-Scanner**](https://github.com/iAdityaSingh/Netrisk-Scanner) | no description yet | `Python` |
+| 🕸️ [**IdentityGraph**](https://github.com/iAdityaSingh/IdentityGraph) | mapping identity/access relationships | `Python` `IAM` |
+| 📦 [**Encourage-Discord-BOT-**](https://github.com/iAdityaSingh/Encourage-Discord-BOT-) | no description yet | `Python` |
 | ⛓️ [**Vehicle-Rental-App**](https://github.com/iAdityaSingh/Vehicle-Rental-App) | vehicle rental, but make it blockchain | `Solidity` `Web3` |
 | 🌐 [**Personal-Portfolio**](https://github.com/iAdityaSingh/Personal-Portfolio) | the site with the terminal + 3D scene | `JS` `Three.js` |
-| 🎮 [**Esports-Analyst-Workspace**](https://github.com/iAdityaSingh/Esports-Analyst-Workspace) | workspace for esports analysis tooling | `TypeScript` |
-| 🎣 [**Phishguard-intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing & threat-intel triage — correlates IOCs against VirusTotal/AbuseIPDB, mapped to MITRE ATT&CK | `Python` `FastAPI` `Cybersecurity` |
-| 🛡️ [**SecureDOT-Antivirus**](https://github.com/iAdityaSingh/SecureDOT-Antivirus) | signature-based malware scanner — SHA-256 hash matching, auto-quarantines threats | `Python` `Cybersecurity` |
-| 📋 [**Offercheck**](https://github.com/iAdityaSingh/Offercheck) | checks and tracks job offers | `JavaScript` |
+| 📦 [**Esports-Analyst-Workspace**](https://github.com/iAdityaSingh/Esports-Analyst-Workspace) | no description yet | `TypeScript` |
+| 🎣 [**Phishguard-intel**](https://github.com/iAdityaSingh/Phishguard-intel) | phishing intel + threat detection | `Python` `Cybersecurity` |
+| 🛡️ [**SecureDOT-Antivirus**](https://github.com/iAdityaSingh/SecureDOT-Antivirus) | hash-based antivirus, scans + nukes threats | `Python` `Cybersecurity` |
+| 📦 [**Offercheck**](https://github.com/iAdityaSingh/Offercheck) | no description yet | `JavaScript` |
 <!--END_SECTION:starred-->
 
 
